@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MUChat.iml" filepath="$PROJECT_DIR$/MUChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MUClient/MUClient.iml" filepath="$PROJECT_DIR$/MUClient/MUClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MUServer/MUServer.iml" filepath="$PROJECT_DIR$/MUServer/MUServer.iml" />
+    </modules>
+  </component>
+</project>

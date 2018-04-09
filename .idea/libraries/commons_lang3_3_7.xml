@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.7">
+    <CLASSES>
+      <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/lib/commons-lang3-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://commons.apache.org/proper/commons-lang/javadocs/api-3.7/index.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
